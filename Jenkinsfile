@@ -1,2 +1,2 @@
-@Library('12demo-shared-lib') _
+@Library('demo-shared-lib') _
 demoPipeline()
